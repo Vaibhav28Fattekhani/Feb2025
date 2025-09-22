@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="11" passed="7" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-19T21:51:57 IST" name="Suite" finished-at="2025-09-19T21:55:24 IST" duration-ms="206488">
+    <groups>
+    </groups>
+    <test started-at="2025-09-19T21:51:57 IST" name="Test" finished-at="2025-09-19T21:55:24 IST" duration-ms="206488">
+      <class name="Tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:51:58 IST" name="setUp" finished-at="2025-09-19T21:52:09 IST" duration-ms="10640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_AdminTabIsDisplyed()[pri:1, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:52:09 IST" name="check_AdminTabIsDisplyed" finished-at="2025-09-19T21:52:21 IST" duration-ms="11995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_AdminTabIsDisplyed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:52:21 IST" name="tearDown" finished-at="2025-09-19T21:52:23 IST" duration-ms="1652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:52:23 IST" name="setUp" finished-at="2025-09-19T21:52:28 IST" duration-ms="4866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_AdminTabIsPim()[pri:2, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:52:28 IST" name="check_AdminTabIsPim" finished-at="2025-09-19T21:52:39 IST" duration-ms="11726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_AdminTabIsPim -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:52:39 IST" name="tearDown" finished-at="2025-09-19T21:52:41 IST" duration-ms="1686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:52:41 IST" name="setUp" finished-at="2025-09-19T21:52:51 IST" duration-ms="9676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_AdminTabIsTime()[pri:3, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:52:51 IST" name="check_AdminTabIsTime" finished-at="2025-09-19T21:53:04 IST" duration-ms="12884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_AdminTabIsTime -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.HomePageTest@15ff3e9e]" started-at="2025-09-19T21:53:04 IST" name="tearDown" finished-at="2025-09-19T21:53:04 IST" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.HomePageTest -->
+      <class name="Tests.AdminPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.AdminPageTest@6ae5aa72]" started-at="2025-09-19T21:53:04 IST" name="setUp" finished-at="2025-09-19T21:53:10 IST" duration-ms="5913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_AdminTabIsDisplyed()[pri:1, instance:Tests.AdminPageTest@6ae5aa72]" started-at="2025-09-19T21:53:10 IST" name="check_AdminTabIsDisplyed" finished-at="2025-09-19T21:53:24 IST" duration-ms="14043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_AdminTabIsDisplyed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.AdminPageTest@6ae5aa72]" started-at="2025-09-19T21:53:24 IST" name="tearDown" finished-at="2025-09-19T21:53:25 IST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.AdminPageTest@6ae5aa72]" started-at="2025-09-19T21:53:25 IST" name="setUp" finished-at="2025-09-19T21:53:30 IST" duration-ms="4926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_AdminTabIsPim()[pri:2, instance:Tests.AdminPageTest@6ae5aa72]" started-at="2025-09-19T21:53:30 IST" name="check_AdminTabIsPim" finished-at="2025-09-19T21:53:44 IST" duration-ms="13844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_AdminTabIsPim -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.AdminPageTest@6ae5aa72]" started-at="2025-09-19T21:53:44 IST" name="tearDown" finished-at="2025-09-19T21:53:45 IST" duration-ms="957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.AdminPageTest -->
+      <class name="Tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:53:45 IST" name="setUp" finished-at="2025-09-19T21:53:55 IST" duration-ms="10328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_LoginPageTitle()[pri:1, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:53:55 IST" name="check_LoginPageTitle" finished-at="2025-09-19T21:53:57 IST" duration-ms="1592" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [OrangeHRMMMMM] but found [OrangeHRM]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [OrangeHRMMMMM] but found [OrangeHRM]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at Tests.LoginTest.check_LoginPageTitle(LoginTest.java:33)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_LoginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:53:57 IST" name="tearDown" finished-at="2025-09-19T21:53:58 IST" duration-ms="806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:53:58 IST" name="setUp" finished-at="2025-09-19T21:54:05 IST" duration-ms="6747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_ValidLogin()[pri:2, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:05 IST" name="check_ValidLogin" finished-at="2025-09-19T21:54:06 IST" duration-ms="1241" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertFalse(Assert.java:67)
+at org.testng.Assert.assertFalse(Assert.java:77)
+at Tests.LoginTest.check_ValidLogin(LoginTest.java:42)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_ValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:06 IST" name="tearDown" finished-at="2025-09-19T21:54:07 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:07 IST" name="setUp" finished-at="2025-09-19T21:54:12 IST" duration-ms="4703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_ValidLoginWithSoftAssert()[pri:3, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:12 IST" name="check_ValidLoginWithSoftAssert" finished-at="2025-09-19T21:54:33 IST" duration-ms="21289" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Assertion execute
+expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Assertion execute
+expected [false] but found [true]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
+at Tests.LoginTest.check_ValidLoginWithSoftAssert(LoginTest.java:61)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_ValidLoginWithSoftAssert -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:33 IST" name="tearDown" finished-at="2025-09-19T21:54:34 IST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:34 IST" name="setUp" finished-at="2025-09-19T21:54:40 IST" duration-ms="6392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalid_ValidLogin()[pri:4, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:40 IST" name="invalid_ValidLogin" finished-at="2025-09-19T21:54:53 IST" duration-ms="12402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_ValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:53 IST" name="tearDown" finished-at="2025-09-19T21:54:55 IST" duration-ms="2384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:54:55 IST" name="setUp" finished-at="2025-09-19T21:55:02 IST" duration-ms="6827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="check_ValidLogin_Excel()[pri:5, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:55:02 IST" name="check_ValidLogin_Excel" finished-at="2025-09-19T21:55:23 IST" duration-ms="21449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_ValidLogin_Excel -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@222545dc]" started-at="2025-09-19T21:55:23 IST" name="tearDown" finished-at="2025-09-19T21:55:24 IST" duration-ms="769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
