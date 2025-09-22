@@ -1,5 +1,6 @@
 package Pages;
 
+// This is an Admin Page
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -15,8 +16,6 @@ public class AdminPage {
 
 	@FindBy(xpath = "//span[text()='Job ']")
 	private WebElement job;
-	
-	
 
 	public AdminPage(WebDriver driver) {
 		this.driver = driver;
@@ -30,5 +29,5 @@ public class AdminPage {
 	public boolean visibilityOfJobTab() {
 		return SeleniumUtils.seleniIsdisplayed(driver, job);
 	}
-	
+
 }
